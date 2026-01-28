@@ -21,5 +21,5 @@ Full Stack Developer and Information Systems student at the Federal Institute of
 <div>
     <img alt="laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
     <img alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img alt="react" height="30" width="40" src="http://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+    <img alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 </div>
