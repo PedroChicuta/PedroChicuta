@@ -5,6 +5,7 @@ Full Stack Developer and Information Systems student at the Federal Institute of
 ## Linguagens de Programação | Programming Languages
 <div>
     <img alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+    <img alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
     <img alt="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
     <img alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
